@@ -4,7 +4,7 @@
 
 Working on Discord Uno Bot (Link will be provided later)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yazid Ilyas)](https://github.com/anuraghazra/github-readme-stats)
+[![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazidIlyasBaihaqi](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YazidIlyasBaihaqi/YazidIlyasBaihaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
