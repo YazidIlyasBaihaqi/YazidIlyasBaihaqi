@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hello there
 
--Curently learning React.JS
+**Curently learning React.JS
 
-Working on Discord Uno Bot (Link will be provided later)
+**Working on Discord Uno Bot (Link will be provided later)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazidIlyasBaihaqi&theme=radical)
