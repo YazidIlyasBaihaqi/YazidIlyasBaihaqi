@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YazidIlyasBaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="YazidIlyasBaihaqi" /> </p>
 
 [![Yazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazidIlyasBaihaqi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazidIlyasBaihaqi&show_icons=true&theme=radical)](https://github.com/YazidIlyasBaihaqi/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
