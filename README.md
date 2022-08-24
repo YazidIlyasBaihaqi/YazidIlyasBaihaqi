@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, name's Yazid Ilyas Baihaqi</h1>
 <h3 align="center">A beginner full stack web developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yazidilyasbaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="yazidilyasbaihaqi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YazidIlyasBaihaqi&label=Profile%20views&color=0e75b6&style=flat" alt="YazidIlyasBaihaqi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazidilyasbaihaqi" alt="yazidilyasbaihaqi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazidilyasbaihaqi" alt="YazidIlyasBaihaqi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
